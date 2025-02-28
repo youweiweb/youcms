@@ -1,0 +1,61 @@
+I. Product Name
+Crossborder MultiMerchant Mall System (Automotive Parts Edition)
+
+Demo: https://che.hot166.com
+
+II. Functions
+
+A. Merchantrelated Functions
+1. Merchant Onboarding Function
+    MultiMerchant Registration: Support different automotive parts merchants to register as platform merchants. They need to fill in enterprise or personal information, such as business license (for enterprises), contact information, business scope (automotive parts types), etc.
+    Merchant Qualification Approval: Approve the qualifications of onboarding merchants to ensure the legality and quality assurance of the automotive parts sold.
+    Merchant Store Management: Merchants can set the store page style, product classification display, store promotion activities, etc. by themselves.
+2. Product Management Function
+    Automotive Parts Classification: Classify automotive parts in multiple dimensions according to the parts of the car (such as engine parts, braking system parts, etc.), brand, applicable vehicle models, etc.
+    Product Listing: Merchants can upload detailed information of automotive parts, including product pictures, specifications, function descriptions, prices (wholesale price, retail price), inventory, etc.
+    Product Editing and Delisting: It is convenient for merchants to modify product information or stop selling certain products according to actual situations.
+
+B. Sales Moderelated Functions
+1. Wholesale Function
+    Bulk Purchase Settings: Set different discount prices corresponding to different bulk purchase quantities. For example, enjoy a 10% discount when purchasing 10  50 pieces, and an 8% discount when purchasing 50  100 pieces.
+    Wholesale Order Processing: Special processing of bulk purchase orders, such as generating wholesale shipping lists and providing logistics solutions for bulk purchases.
+2. Retail Function
+    Single Product Sales: Customers can buy one or more automotive parts separately. The shopping cart function is supported so that customers can make up an order.
+    Personalized Recommendation: Recommend relevant automotive parts according to customers' browsing history and purchase records.
+
+C. Userrelated Functions
+1. Registration and Login
+    Support multiple registration and login methods, such as mobile phone number, email address, thirdparty accounts (WeChat, Facebook, etc., considering crossborder situations).
+    User Information Management: Users can modify their basic information, shipping addresses, contact information, etc.
+2. Search Function
+    Precise Search: Users can quickly find the required products by entering keywords such as the name, model, and brand of automotive parts.
+    Fuzzy Search: When users enter some keywords, relevant automotive parts will also be displayed.
+
+D. Transactionrelated Functions
+1. Order Management
+    Ordering Process: After users select products, they enter the order page, fill in order information (shipping address, contact person, contact phone number, etc.), and choose a payment method (such as credit card, PayPal and other crossborder payment methods).
+    Order Status Tracking: Users can view the status of their orders, such as pending payment, paid, shipped, completed, return in progress.
+    Order Processing: Merchants can process orders, including confirming orders, shipping, handling refunds, etc.
+2. Payment Function
+    Multiple Payment Channels: In addition to common international payment methods, local popular payment methods (if applicable) can also be integrated.
+    Payment Security: Adopt encryption technology to ensure the security of the payment process and prevent the leakage of payment information.
+E. Logisticsrelated Functions
+1. Logistics Distribution
+    Logistics Partner Integration: Cooperate with multiple international logistics enterprises, such as DHL, FedEx, etc. Recommend appropriate logistics methods according to the user's shipping address and product weight.
+    Logistics Information Query: Users can query the logistics transportation status of their purchased products on the platform.
+2. Inventory Management
+    Inventory Alert: When the inventory of automotive parts is lower than the set value, remind merchants to replenish stocks.
+    Inventory Check: Conduct regular inventory checks to ensure the accuracy of inventory data.
+
+F. Customer Service and Aftersales Functions
+1. Online Customer Service
+    Realtime Chat: Users and merchants can communicate in real time through the online chat window to answer questions and handle aftersales problems.
+    Customer Service Transfer: If a complex problem is encountered, the customer service can be transferred to more professional personnel.
+2. Aftersales Service
+    Return and Exchange Policy: Clearly define the return and exchange rules of the platform. Users can apply for returns and exchanges according to the rules.
+    Aftersales Evaluation: Users can evaluate the products they purchased and the services of merchants to provide references for other users.
+
+G. Demo
+Demo Address: che.hot166.com 
+
+If you need to purchase or customize, please contact me. If you need a test account, please also contact me.
